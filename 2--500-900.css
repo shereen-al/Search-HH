@@ -400,7 +400,7 @@
     min-height: 50px;
     height: auto;
     justify-content: space-between;
-    top: 0;
+    top: 4px;
     z-index: 999;
     margin-bottom: 10px;
     width: 94%;
