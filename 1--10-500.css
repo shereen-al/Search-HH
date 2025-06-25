@@ -407,7 +407,7 @@
     background-color: #fff;
     display: flex;
     flex-direction: row-reverse;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-start;
     min-height: 50px;
     height: auto;
@@ -452,14 +452,15 @@
   }
 
   .menu-button-container {
-    display: none;
     height: 100%;
     width: 30px;
     cursor: pointer;
-    flex-direction: column;
+    /* flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     padding-top: 19px;
+    position: absolute;
+    right: 0;
   }
 
   #menu-toggle {
