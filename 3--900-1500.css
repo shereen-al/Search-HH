@@ -401,7 +401,8 @@
     min-height: 50px;
     height: auto;
     justify-content: center;
-    top: 4px;
+    top: 0;
+    padding-top: 4px;
     z-index: 999;
     margin-bottom: 10px;
     width: 82%;
